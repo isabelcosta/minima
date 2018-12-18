@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+After participating on [Google Summer of Code](https://summerofcode.withgoogle.com) with [Systers Community](https://anitab.org/systers/) I started to really like Open Source.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I was an Android Developer at [Innovation Makers](https://inm.pt/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In summer of 2015, I was a Software Engineering intern at [Uniplaces](https://uniplaces.com/).
 
+I graduated recently from Masters degree of Telecommunication and Informatics Engineering at [Técnico Lisboa](https://tecnico.ulisboa.pt/). I developed my Master's thesis "Private Reactive Multipath Communication Middleware" at [INESC-ID](https://www.inesc-id.pt/).
 
-[jekyll-organization]: https://github.com/jekyll
+[LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) • [GitHub](https://github.com/isabelcosta) • [Medium](https://medium.com/@isabelcmdcosta) • [Twitter](https://twitter.com/isabelcmdcosta)
+
+![Isabel in hometown](/assets/images/me-in-hometown.jpg)
