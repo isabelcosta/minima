@@ -27,4 +27,3 @@ All my blog posts can be found on [Medium](https://medium.com/@isabelcmdcosta). 
 
 On August 12, '18 I presented my [Google Summer of Code Final Demo](https://www.youtube.com/watch?v=xRZrdR47R-w) on YouTube Live.
 
-![Isabel in hometown](/assets/images/me-in-hometown.jpg)
