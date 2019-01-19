@@ -31,6 +31,7 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
+google_analytics: UA-110733190-1
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -46,7 +47,7 @@ header_pages:
  - blog.md
  - projects.md
  - talks.md
- - contact.md
+ - contact.html
 
 # Build settings
 theme: minima
