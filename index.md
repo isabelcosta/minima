@@ -6,32 +6,18 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Home
 ---
 
 
-# Hello 👋🏾
+### Olá 👋🏾
 
-I'm Isabel, a software developer from Portugal.
+I'm Isabel, a software developer from Portugal. I work at [Grupo Impresa](http://impresa.pt). 
 
-## 🙋🏾‍♀️ About me (short)
-
-I'm a software developer from Portugal. 
-
-blah blah
-
-Here's the long version of [About me](/about/).
-
-## 🛠️ Work
-
-I'm a Software Developer at Grupo Impresa.
 I'm one of the maintainers of Mentorship System project, within Systers Open Source community.
 
-## 📝 Blog
+I blog sometimes on [Medium](https://medium.com/@isabelcmdcosta). Last summer I participated on the Google Summer of Code program, where I documented everything about my journey on [Isabel Costa GSoC medium publication](https://medium.com/isabel-costa-gsoc).
 
-All my blog posts can be found on [Medium](https://medium.com/@isabelcmdcosta). Here's a specific set of posts related to [my Google Summer of Code journey](https://medium.com/isabel-costa-gsoc).
-
-## 🎙 Speak
-
-On August 12, '18 I presented my [Google Summer of Code Final Demo](https://www.youtube.com/watch?v=xRZrdR47R-w) on YouTube Live.
+Sometimes
 
 <img src="/assets/images/me-out-in-the-cold.jpg" alt="Isabel in Germany all covered from cold" class="center-home-image"/>

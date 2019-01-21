@@ -2,29 +2,30 @@
 layout: post
 title: "How to Undo the Last Commit"
 categories: git
+visible: true
 ---
 
 ![Image from [Altassian tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)](https://cdn-images-1.medium.com/max/2000/1*uc89vQwNgfqctnZg9PMfxA.png)
 
 In this post I will show how I sometimes recover wrong changes (commits) in a coding project, using [git](https://git-scm.com/) on the command line.
 
-**Why would I want to do this?**
+### Why would I want to do this?
 
 In my thesis, I’m working on a project that I develop in one environment, and then test in another environment composed of multiple virtual machines. So each important change that I do may have a significant impact on the functionalities of the project. Sometimes, the change I do might not have the result I expected. Then I have to see the changes and analyze the project’s behavior before and after the last commit.
 
-**How do you see the last commit?**
+### How do you see the last commit?
 
 To test a specific commit, you need the hash. To get the hash you can run `git log` , then you get this output:
 
     root@debian:/home/debian/test-project# git log
     commit <last commit hash>
-    Author: Isabel Costa <[example@email.com](mailto:isabelcmdcosta@gmail.com)>
+    Author: Isabel Costa <example@email.com>
     Date:   Sun Feb 4 21:57:40 2018 +0000
 
     <commit message>
 
     commit <before last commit hash>
-    Author: Isabel Costa <[example@email.com](mailto:isabelcmdcosta@gmail.com)>
+    Author: Isabel Costa <example@email.com>
     Date:   Sun Feb 4 21:42:26 2018 +0000
 
     <commit message>
@@ -61,7 +62,7 @@ After you do this you’ll get the following output:
 
 After analyzing the specific commit, if you then decide to stay in that commit state, you can undo the last commit.
 
-**How to undo this commit?**
+### How to undo this commit?
 
 If you wish to [undo/revert the last commit](https://git-scm.com/docs/git-revert) you can do the following, using the commit hash that you get from the `git log` command:
 
@@ -79,7 +80,7 @@ This command will create a new commit with the “Revert” word in the beginnin
 
 During the making of this post, I found this tutorial — [Undoing Commits and Changes](https://www.atlassian.com/git/tutorials/undoing-changes) — by Atlassian, which describes this issue very well.
 
-### **Summary**
+### Summary
 
 * If you want to test the previous commit just do `git checkout <test commit hash>` ; then you can test that last working version of your project.
 

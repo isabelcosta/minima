@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🙋🏾‍♀️ About me
+title: 👩🏾 About me
 permalink: /about/
 ---
 
@@ -15,8 +15,6 @@ I’m really interested in the Android ecosystem and working with mobile applica
 I’m passionate about the process of software development, such as the documentation, testing, code reviews, communicating with peers within teams, thinking about solutions to problems, etc. I thrive to learn about software development best practices and apply them to my work, regardless of the technology I’m working with.
 
 I find very interesting participating in projects since its very beginning to end, and seeing it culminate in a final product while contributing in every aspect of it.
-
-I aspire to be happy!
 
 ### 🌅 Open Source
 
