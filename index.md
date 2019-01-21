@@ -6,4 +6,18 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Home
 ---
+
+
+## Olá 👋🏾
+
+I'm Isabel, a Software Developer from Portugal. I work at [Grupo Impresa](http://impresa.pt). 
+
+I'm one of the maintainers of [Mentorship System project](https://summerofcode.withgoogle.com/projects/#5331289322815488), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain both backend and android repositories.
+
+Sometimes, I blog on [Medium](https://medium.com/@isabelcmdcosta). Last summer I participated on the Google Summer of Code program, where I documented everything about my journey on [Isabel Costa GSoC medium publication](https://medium.com/isabel-costa-gsoc).
+
+You can find my open source work on [GitHub](https://github.com/isabelcosta) and my professional experience on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
+
+<img src="/assets/images/me-out-in-the-cold.jpg" alt="Isabel in Germany all covered from cold" class="center-home-image"/>
