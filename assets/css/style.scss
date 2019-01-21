@@ -5,9 +5,25 @@
 @import "minima";
 
 .center-home-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
 }
 
+.social-media-links { 
+	text-align: center;
+}
+
+.social-media-links a {
+	margin: 0px 20px 0px 20px;
+	color: inherit; 
+}
+
+.social-media-links a:hover {
+	color: #4dc3f9;
+}
+
+.top-menu a:hover {
+	color: #4dc3f9;
+}

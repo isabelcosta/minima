@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Isabel in Germany all covered from cold](/assets/images/me-out-in-the-cold.jpg)
 
-### Hello 👋🏾
+### Olá 👋🏾
 
 I'm Isabel, a software developer from Portugal.
 

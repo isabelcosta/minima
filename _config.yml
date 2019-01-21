@@ -51,7 +51,7 @@ header_pages:
  - blog.md
  - work.md
  - talks.md
- - contact.html
+ - contact.md
 
 # Build settings
 theme: minima
