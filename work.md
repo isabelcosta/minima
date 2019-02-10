@@ -8,7 +8,7 @@ You can see my open sourced projects on [GitHub](https://github.com/isabelcosta)
 
 ## 💼 Professional experience
 
-- **Dec, 2018 - Now:** Software Developer at Grupo Impresa;
+- **Dec, 2018 - Now:** Software Developer at Impresa;
 - **Apr, 2018 - Ago, 2018:** Student Developer for Google Summer of Code 2018 with Systers Community;
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
 - **Jul, 2015 - Sep, 2015:** Software Engineering summer intern at Uniplaces.
@@ -31,6 +31,9 @@ I documented my journey with 1 blog per week on [Isabel Costa GSoC Medium public
 
 ### Personal Website
 
-Usually I use Jekyll websites. Because I like to to see evolution, here is a history of my websites:
-- 1º version [Live](http://isabelcosta.github.io/personal-website-first-version) and on [GitHub](http://github.com/isabelcosta/personal-website-first-version)
-- 2º version Live and on GitHub (soon).
+Usually, I use Jekyll based websites, to facilitate the development through using Markdown files and without having to do much frontend work. I'm using [jekyll/minima](https://github.com/jekyll/minima) template on this website.
+
+These are the different versions of my websites until this current one:
+- **1st version:** [Live](http://isabelcosta.github.io/personal-website-first-version) and on [GitHub](http://github.com/isabelcosta/personal-website-first-version);
+- **2nd version:** [Live](http://isabelcosta.github.io/personal-website-second-version) and on [GitHub](https://github.com/isabelcosta/personal-website-second-version);
+- **3rd version:** this website right here :) and on [GitHub](https://github.com/isabelcosta/isabelcosta.github.io). 
