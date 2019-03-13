@@ -19,5 +19,3 @@ I'm one of the maintainers of [Mentorship System project](https://summerofcode.w
 Sometimes, I blog on [Medium](https://medium.com/@isabelcmdcosta). Last summer I participated on the Google Summer of Code program, where I documented everything about my journey on [Isabel Costa GSoC medium publication](https://medium.com/isabel-costa-gsoc).
 
 You can find my open source work on [GitHub](https://github.com/isabelcosta) and my professional experience on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
-
-<img src="/assets/images/me-out-in-the-cold.jpg" alt="Isabel in Germany all covered from cold" class="center-home-image"/>
