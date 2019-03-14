@@ -19,7 +19,7 @@ You can see my open sourced projects on [GitHub](https://github.com/isabelcosta)
 
 This is a project I proposed for Google Summer of Code program that I participated on 2018.
 
-This summer I was a [Google Summer of Code](https://summerofcode.withgoogle.com) Student with [Systers Community](https://github.com/systers). I proposed [Mentorship System](https://summerofcode.withgoogle.com/projects/#5331289322815488), a mentorship application to help women in tech mentor each other, on career development topics, during a certain period of time. I worked with mentors, the Systers Open Source community.
+This summer I was a [Google Summer of Code](https://summerofcode.withgoogle.com) Student with [Systers Community](https://github.com/systers). I proposed [Mentorship System](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a mentorship application to help women in tech mentor each other, on career development topics, during a certain period of time. I worked with mentors, the Systers Open Source community.
 
 I started with the Backend REST API development, using python and flask. After 2 months designing and implementing the backend I started implementing the Android application with Kotlin.
 
