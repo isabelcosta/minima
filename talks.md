@@ -26,7 +26,7 @@ In this talk, I shared my experience as a Google Summer of Code student with Sys
 ### Teach yourself Programming
 **[AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/) / Remote / February 24th, 2019**
 
-In this webinar I had the pleasure to do the talk together with Aliaksandra Sankova (LinkedIn link). We talk about how to teach yourself programming for free, sharing multiple resources for different types of learners and coding paths one can take. We also discussed how to prepare for interviews and about how to get started with contributing to Open Source. In the end we hosted a Q&A session.
+In this webinar I had the pleasure to do the talk together with [Aliaksandra Sankova](https://www.linkedin.com/in/alsank). We talk about how to teach yourself programming for free, sharing multiple resources for different types of learners and coding paths one can take. We also discussed how to prepare for interviews and about how to get started with contributing to Open Source. In the end we hosted a Q&A session.
 
 ### Doing Open Source as a Contributor and a Maintainer
 **[DevFest Porto (conference)](http://devfest.gdgporto.xyz) / Porto, Portugal / January 26th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/doing-open-source-as-a-contributor-and-maintainer)**
