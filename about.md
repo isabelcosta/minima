@@ -8,9 +8,9 @@ permalink: /about/
 
 ### Olá 👋🏾
 
-I'm Isabel, a software developer from Portugal.
+I'm Isabel, a Software Developer from Portugal.
 
-I’m really interested in the Android ecosystem and working with mobile applications. I’m mostly used to programming with Java, Kotlin and Python. I always try to be open to learning new languages and frameworks depending on the need of the project. I thrive to learning about software development best practices and apply them to my work.
+I always try to be open to learning new languages and frameworks depending on the need of the project. I thrive to learning about software development best practices and apply them to my work.
 
 I’m passionate about the process of software development, such as the documentation, testing, code reviews, communicating with peers within teams, thinking about solutions to problems, etc. I thrive to learn about software development best practices and apply them to my work, regardless of the technology I’m working with.
 
@@ -18,7 +18,7 @@ I find very interesting participating in projects since its very beginning to en
 
 ### 🌅 Open Source
 
-In 2018 I was accepted into the Google Summer of Code (GSoC) program with [Systers Community](http://systers.io), in which I proposed [Mentorship System](https://summerofcode.withgoogle.com/projects/#5331289322815488) project. During this program, I started to really like being involved with **Open Source** projects and communities. I loved that I got to work on this project from scratch.
+In 2018 I was accepted into the Google Summer of Code (GSoC) program with [Systers Community](http://systers.io), in which I proposed [Mentorship System](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/) project. During this program, I started to really like being involved with **Open Source** projects and communities. I loved that I got to work on this project from scratch.
 
 At the moment, I’m a maintainer of both backend and android repositories of the Mentorship System. What I’ve been enjoying the most about being a maintainer is to manage the project contributions and, at the same time, help newcomers making their first contribution to open source, while providing a safe environment for them to learn, with the help from the community.
 
@@ -35,7 +35,7 @@ On my third year in college, I interned at a startup, [Uniplaces](https://unipla
 ### ℹ️ More ...
 
 You can learn more about me through my:
-- **Blog posts** I write on [Medium](https://medium.com/@isabelcmdcosta), [Practical Dev](https://dev.to/isabelcmdcosta) or [Blog page](/blog/) (once I migrate everything);
+- **Blog posts** I write on [Medium](https://medium.com/@isabelcmdcosta), [Dev Community](https://dev.to/isabelcmdcosta) or [Blog page](/blog/) (once I migrate everything);
 - **Talks** on [Talks page](/talks/), and [Speaker Deck](https://speakerdeck.com/isabelcmdcosta);
 - **Projects** I develop on [GitHub](https://github.com/isabelcosta);
 - **Work** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
