@@ -14,7 +14,7 @@ title: Home
 
 I'm Isabel, a Software Developer from Portugal. I work at [Impresa](https://www.impresa.pt/). 
 
-I'm one of the maintainers of [Mentorship System project](https://summerofcode.withgoogle.com/projects/#5331289322815488), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain both backend and android repositories.
+I'm one of the maintainers of [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain both backend and android repositories.
 
 I write blog posts [here](/blog/), as well as on [Medium](https://medium.com/@isabelcmdcosta) and [DEV Community](https://dev.to/isabelcmdcosta). During the Google Summer of Code program I documented my journey on ["Isabel Costa GSoC" Medium publication](https://medium.com/isabel-costa-gsoc).
 
