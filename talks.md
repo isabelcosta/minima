@@ -10,6 +10,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
+| Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) | 14 Jun '19 | --- |
 | Journey as a Google Summer of Code student with Systers | [Systers TechTalks](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) | 7 Mar '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) |
 | Teach yourself programming | [AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/) | 24 Feb, 25 Apr '19 | --- |
 | Doing Open Source as a Contributor and a Maintainer | [GDG Porto DevFest](https://devfest.gdgporto.xyz/) | 26 Jan '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/doing-open-source-as-a-contributor-and-maintainer) |
