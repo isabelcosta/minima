@@ -10,7 +10,7 @@ Contributing to Open Source can be super intimidating. Back in 2016 I already kn
 
 ## My first Open Source contributions
 
-![woman juggling emoji](https://user-images.githubusercontent.com/11148726/59983792-99cad100-961b-11e9-9bc7-30e4fb981f01.png)
+![woman juggling emoji](https://user-images.githubusercontent.com/11148726/59983891-47d67b00-961c-11e9-85cd-cb9dca5808f3.png)
 
 For some time I wanted to contribute to Open Source but never actually took the steps to do it until I saw an initiative called [24 Pull Requests](https://24pullrequests.com/), which is about giving back to open source during the month of December.
 
