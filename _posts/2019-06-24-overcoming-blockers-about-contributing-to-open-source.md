@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Summer of Code | Coding Period | Week 1"
+title: "Overcoming blockers about contributing to Open Source"
 visible: true
 ---
 
