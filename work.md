@@ -4,14 +4,14 @@ title: 🛠️ Work
 permalink: /work/
 ---
 
-You can see my open sourced projects on [GitHub](https://github.com/isabelcosta) and my professional experience on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
+You can see my **open sourced projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
 ## 💼 Professional experience
 
 - **Dec, 2018 - Now:** Software Developer at Impresa;
-- **Apr, 2018 - Ago, 2018:** Student Developer for Google Summer of Code 2018 with Systers Community;
+- **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
-- **Jul, 2015 - Sep, 2015:** Software Engineering summer intern at Uniplaces.
+- **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
 
 ## 🚧 Projects
 
@@ -28,6 +28,20 @@ Repositories on GitHub:
 - Android application: [systers/mentorship-android](https://github.com/systers/mentorship-android).
 
 I documented my journey with 1 blog per week on [Isabel Costa GSoC Medium publication](https://medium.com/isabel-costa-gsoc). 
+
+Links: [Initial GSoC Proposal]() / [Mentorship System on GSoC website](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/) / [GSoC Journal on Medium](https://medium.com/isabel-costa-gsoc) / [Final Demo of my work](https://www.youtube.com/watch?v=xRZrdR47R-w)
+
+
+### PREMIUM - Private Reactive Multipath Communication Middleware (MSc Thesis)
+
+I developed my MSc thesis "PREMIUM: Private Reactive Multipath Communication Middleware" in the context of the [SafeCloud](https://www.safecloud-project.eu/) project, within the Distributed Systems research group of [INESC-ID](https://www.inesc-id.pt/). The prototype combines multipath communication and route monitoring to react to hijacking attacks.
+
+To develop the prototype for my thesis, I worked with two previous master thesis' projects - MACHETE, a multipath communication mechanism, and Darshana, route hijacking detection system. I refactored these projects, fixed bugs, implemented new features that were needed for my Dissertation project. I also created documentation for these.
+I used the modified versions of these prototypes and implemented new modules to integrate them.
+
+Tech stack and tools: C, Java, Python, VirtualBox, Google Cloud, git, GitHub, Linux (Debian)
+
+Code is available at [inesc-id/Premium](https://github.com/inesc-id/Premium) on GitHub.
 
 ### Personal Website
 
