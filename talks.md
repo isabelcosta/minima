@@ -19,6 +19,11 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 ⬆️ Talks are ordered from the most recent to the oldest one.
 
+### Why, Where and How to contribute to Open Source 
+**[Hopperx1 London (conference)](https://community.anitab.org/event/hopperx1-london/) / London, UK / June 14th, 2019**
+
+Because I know contributing to Open Source can be a bit intimidating, I wanted to share how one could start their journey and what is available out there to get started. In this talk, I talked about why contibuting to open source can be very beneficial for one's career, where one could get started and how they could start, as there are many ways to contribute to Open Source.
+
 ### Journey as a Google Summer of Code student 
 **[Systers TechTalks (webinar)](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) / Remote / March 7th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers)**
 
