@@ -12,7 +12,7 @@ title: Home
 
 ## Olá 👋🏾
 
-I'm Isabel, a Software Developer from Portugal. I work at [Impresa](https://www.impresa.pt/). 
+I'm Isabel, a Software Engineer from Portugal, currently working at [GeoPhy](https://geophy.com/) in London, UK. 
 
 I'm one of the maintainers of [Mentorship System project](https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/), a project I proposed during Google Summer of Code 2018 with Systers Open Source community. I maintain both backend and android repositories.
 
