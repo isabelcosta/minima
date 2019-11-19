@@ -10,8 +10,9 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
+| Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | 7 Dec '19 | --- |
 | Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) | 14 Jun '19 | --- |
-| Journey as a Google Summer of Code student with Systers | [Systers TechTalks](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) | 7 Mar '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) |
+| Journey as a Google Summer of Code student with Systers | [Systers TechTalks](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) | 7 Mar '19 | [Video](https://www.youtube.com/watch?v=eL_dy64I13E) / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) |
 | Teach yourself programming | [AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/) | 24 Feb, 25 Apr '19 | --- |
 | Doing Open Source as a Contributor and a Maintainer | [GDG Porto DevFest](https://devfest.gdgporto.xyz/) | 26 Jan '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/doing-open-source-as-a-contributor-and-maintainer) |
 | Getting Started with Open Source | [GDG Lisbon meetup](https://www.meetup.com/gdglisbon/events/254345727/) | 20 Sep '18 | [Slides](https://speakerdeck.com/isabelcmdcosta/getting-started-with-open-source) |
@@ -25,7 +26,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 Because I know contributing to Open Source can be a bit intimidating, I wanted to share how one could start their journey and what is available out there to get started. In this talk, I talked about why contibuting to open source can be very beneficial for one's career, where one could get started and how they could start, as there are many ways to contribute to Open Source.
 
 ### Journey as a Google Summer of Code student 
-**[Systers TechTalks (webinar)](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) / Remote / March 7th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers)**
+**[Systers TechTalks (webinar)](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) / Remote / March 7th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) / [Video](https://www.youtube.com/watch?v=eL_dy64I13E)**
 
 In this talk, I shared my experience as a Google Summer of Code student with Systers Open Source community, since I applied this community until I finished the program and remained in the community as a maintainer. I shared the process of getting prepared to apply and then how the actual program was after being accepted. I also showed how I contributed to Systers Open Source community with more than code, because Open Source is not just about code and has a place for everyone.
 
