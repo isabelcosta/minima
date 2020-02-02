@@ -8,7 +8,8 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 
 ## 💼 Professional experience
 
-- **Dec, 2018 - Now:** Software Developer at Impresa;
+- **Oct, 2019 - Now:** Software Engineer at GeoPhy;
+- **Dec, 2018 - Oct, 2019:** Software Developer at Impresa;
 - **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
 - **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
