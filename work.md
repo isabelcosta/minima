@@ -6,13 +6,22 @@ permalink: /work/
 
 You can see my **open sourced projects** on [GitHub](https://github.com/isabelcosta) and my **professional experience** on [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta).
 
-## 💼 Professional experience
+## 👩🏾‍💻 Professional experience
 
 - **Oct, 2019 - Now:** Software Engineer at GeoPhy;
 - **Dec, 2018 - Oct, 2019:** Software Developer at Impresa;
 - **Apr, 2018 - Ago, 2018:** Google Summer of Code 2018 student with Systers Community;
 - **Feb, 2016 - Apr, 2018:** Android Developer at Innovation Makers;
 - **Jul, 2015 - Sep, 2015:** Software Engineering intern at Uniplaces.
+
+## 👐🏾 Volunteer work ...
+
+- **Jul, 2019:** Community Leader (Volunteer Management) for AnitaB.org London
+- **Oct, 2019:** GHC Open Source Day remote mentor
+- **May - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source
+- **Sep, 2018:** GHC Open Source Day Systers Representative
+
+Also I do a bit of [public speaking](/talks/) and [blogging](/blog/).
 
 ## 🚧 Projects
 
