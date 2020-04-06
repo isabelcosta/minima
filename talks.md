@@ -11,6 +11,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
 | Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | 7 Dec '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source) |
+| Open Source practices we can apply at work | Internally at GeoPhy | 20 Nov '19 | --- |
 | Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) | 14 Jun '19 | --- |
 | Journey as a Google Summer of Code student with Systers | [Systers TechTalks](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) | 7 Mar '19 | [Video](https://www.youtube.com/watch?v=eL_dy64I13E) / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) |
 | Teach yourself programming | [AnitaB.org Community Webinar](https://community.anitab.org/event/anitab-org-community-webinar-teach-yourself-programming/) | 24 Feb, 25 Apr '19 | --- |
@@ -26,6 +27,11 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 **[Hopperx1 London (conference)](https://community.anitab.org/event/hopperx1-london/) / London, UK / June 14th, 2019**
 
 Because I know contributing to Open Source can be a bit intimidating, I wanted to share how one could start their journey and what is available out there to get started. In this talk, I talked about why contibuting to open source can be very beneficial for one's career, where one could get started and how they could start, as there are many ways to contribute to Open Source.
+
+### Open Source practices we can apply at work 
+**GeoPhy / Remote / November 20th, 2019**
+
+In this talk, I started describing the scenario we face when working in an open source environment. After that, I  elaborated on 2 very important concepts when working on open source projects, documentation and transparency. I ended up giving examples of little things we can do every day to improve knowledge sharing and also promote open communication for the benefit of the different teams, level of experience and the company.
 
 ### Journey as a Google Summer of Code student 
 **[Systers TechTalks (webinar)](http://www.cvent.com/events/systers-techtalks-journey-as-a-google-summer-of-code-student/event-summary-87be2bd07b694fc6ac41a63045b297b6.aspx) / Remote / March 7th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/journey-as-a-google-summer-of-code-student-with-systers) / [Video](https://www.youtube.com/watch?v=eL_dy64I13E)**
