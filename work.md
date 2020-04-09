@@ -16,12 +16,13 @@ You can see my **open sourced projects** on [GitHub](https://github.com/isabelco
 
 ## 👐🏾 Volunteer work
 
-- **Jul, 2019 - Now:** Community Leader (Volunteer Management) for AnitaB.org London
-- **Mar, 2018 - Now:** Contributor and Maintainer at Systers Open Source Community
-- **Nov, 2019 - Jan, 2020:** Google Code-in mentor at Systers Community
-- **Oct, 2019:** GHC Open Source Day remote mentor
-- **May, 2019 - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source
-- **Sep, 2018:** GHC Open Source Day Systers Representative
+- **Feb, 2020 - Now:** Google Summer of Code admin at AnitaB.org Open Source;
+- **Jul, 2019 - Now:** Community Leader (Volunteer Management) for AnitaB.org London chapter;
+- **Mar, 2018 - Now:** Contributor and Maintainer at Systers Open Source Community;
+- **Nov, 2019 - Jan, 2020:** Google Code-in mentor at Systers Community;
+- **Oct, 2019:** GHC Open Source Day remote mentor;
+- **May, 2019 - June, 2019:** Hopperx1 London - Track Committee Co Chair for Open Source;
+- **Sep, 2018:** GHC Open Source Day Systers Representative.
 
 Also I do a bit of [public speaking](/talks/) and [blogging](/blog/).
 
