@@ -10,6 +10,7 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
+| Getting involved with Open Source | [AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) | 15 May '20 | --- |
 | Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | 7 Dec '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source) |
 | Open Source practices we can apply at work | Internally at GeoPhy | 20 Nov '19 | --- |
 | Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) | 14 Jun '19 | --- |
