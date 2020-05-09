@@ -2,6 +2,7 @@
 layout: post
 title: "How I set up Tinyproxy as a forward proxy and reverse proxy"
 visible: true
+featured: true
 ---
 
 [Tinyproxy](https://tinyproxy.github.io/) is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems, which is [open source on Github](https://github.com/tinyproxy/tinyproxy).

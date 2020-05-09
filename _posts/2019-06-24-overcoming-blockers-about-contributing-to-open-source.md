@@ -2,6 +2,7 @@
 layout: post
 title: "Overcoming blockers about contributing to Open Source"
 visible: true
+featured: true
 ---
 
 ![woman on pc emoji](https://user-images.githubusercontent.com/11148726/59983786-959eb380-961b-11e9-853e-9ea4f4a2573d.png)

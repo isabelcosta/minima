@@ -3,6 +3,7 @@ layout: post
 title: "How to Undo the Last Commit"
 categories: git
 visible: true
+featured: true
 ---
 
 ![Image from [Altassian tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)](https://cdn-images-1.medium.com/max/2000/1*uc89vQwNgfqctnZg9PMfxA.png)

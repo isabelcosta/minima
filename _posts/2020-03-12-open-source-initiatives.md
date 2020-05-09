@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source programs and initiatives"
 visible: true
+featured: true
 ---
 
 In this blog post, I will mention some open source initiatives and programs that can help you get started or more involved with Open Source.
