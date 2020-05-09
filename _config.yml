@@ -2,11 +2,10 @@ title: Isabel Costa
 author: Isabel Costa
 email: isabel.monteiro.costa@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  I’m a Software Developer from Portugal. 
-  I like working on Open Source every since 
-  I participated as a student on Google Summer of Code program. 
-  I enjoy software development, watching movie reviews, 
-  being with my family, among other things ...
+  I’m a Software Engineer from Portugal. 
+  I am passionate about Open Source and open communication
+  and documentation practices. I enjoy software development,
+  watching movie reviews, being with my family, ...
 
 # social links
 twitter_username: isabelcmdcosta
@@ -59,5 +58,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-sitemap
  
