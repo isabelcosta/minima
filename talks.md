@@ -10,7 +10,8 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 
 | Title | Where | Date | Resources |
 |-------|-------|------|-------|
-| Getting involved with Open Source | [AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) | 15 May '20 | --- |
+| Why, Where and How to contribute to Open Source | [JNation](https://2020.jnation.pt/) | 2 Jun '20 | --- |
+| Intro to Open Source | [AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) | 15 May '20 | --- |
 | Why, Where and How to contribute to Open Source | [GDG DevFest Lisbon](https://devfest.gdglisbon.xyz/) | 7 Dec '19 | [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source) |
 | Open Source practices we can apply at work | Internally at GeoPhy | 20 Nov '19 | --- |
 | Why, Where and How to contribute to Open Source | [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/) | 14 Jun '19 | --- |
@@ -23,11 +24,19 @@ You can see the slides for my talks on [Speaker Deck](https://speakerdeck.com/is
 ⬆️ Talks are ordered from the most recent to the oldest one.
 
 ### Why, Where and How to contribute to Open Source 
+
+**[JNation (conference)](https://2020.jnation.pt/) / Remote / June 2nd, 2020**
+
 **[DevFest Lisboa (conference)](https://devfest.gdglisbon.xyz/) / Lisboa, Portugal / December 7th, 2019 / [Slides](https://speakerdeck.com/isabelcmdcosta/why-where-and-how-to-contribute-to-open-source)**
 
 **[Hopperx1 London (conference)](https://community.anitab.org/event/hopperx1-london/) / London, UK / June 14th, 2019**
 
 Because I know contributing to Open Source can be a bit intimidating, I wanted to share how one could start their journey and what is available out there to get started. In this talk, I talked about why contibuting to open source can be very beneficial for one's career, where one could get started and how they could start, as there are many ways to contribute to Open Source.
+
+### Intro to Open Source
+**[AnitaB.org Community Webinar](https://community.anitab.org/event/intro-to-open-source/) / Remote / May 15th, 2020**
+
+In this talk, I co-presented with my fellow AnitaB.org Open Source admins, [Anna Bauza](https://www.linkedin.com/in/anna-bauza/) and [Maybellin Burgos](https://www.linkedin.com/in/maysburgos/), about how to start contributing to Open Source. We talked about our experiences in Open Source, benefits of contributing, ways to get started with or without programs, different ways to contribute to an open source project and opportunities at AnitaB.org Open Source.
 
 ### Open Source practices we can apply at work 
 **GeoPhy / Remote / November 20th, 2019**
